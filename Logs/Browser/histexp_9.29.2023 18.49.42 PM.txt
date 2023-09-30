@@ -1,0 +1,11 @@
+9/29/2023 18:59:56 PM	listener java - Google Search	https://www.google.com/search?q=listener+java&oq=listener+java&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIGCAcQRRg80gEINDEwN2oxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+9/29/2023 18:59:58 PM	Introduction to Event Listeners (The Java™ Tutorials > Creating a GUI With Swing > Writing Event Listeners)	https://docs.oracle.com/javase/tutorial/uiswing/events/intro.html
+9/29/2023 19:00:39 PM	notifylisteners java - Google Search	https://www.google.com/search?q=notifylisteners+java&oq=notifylisteners+java&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiGAxiKBTIKCAIQABiGAxiKBTIKCAMQABiGAxiKBTIKCAQQABiGAxiKBdIBCDk3MzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+9/29/2023 19:00:38 PM	NotificationListener (Java Platform SE 8 )	https://docs.oracle.com/javase/8/docs/api/javax/management/NotificationListener.html
+9/29/2023 19:07:14 PM	getting input in java - Google Search	https://www.google.com/search?q=getting+input+in+java&oq=getting+input+in+&gs_lcrp=EgZjaHJvbWUqDAgAEAAYFBiHAhiABDIMCAAQABgUGIcCGIAEMgcIARAAGIAEMgcIAhAAGIAEMgYIAxBFGDkyBwgEEAAYgAQyBwgFEAAYgAQyDAgGEAAYFBiHAhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIwMzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+9/29/2023 19:07:15 PM	Java User Input (Scanner class)	https://www.w3schools.com/java/java_user_input.asp
+9/29/2023 19:19:13 PM	2d array in java - Google Search	https://www.google.com/search?q=2d+array+in+java&oq=2d+array+in+java&gs_lcrp=EgZjaHJvbWUyCwgAEEUYORhDGIoFMgcIARAAGIAEMgwIAhAAGBQYhwIYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0MTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+9/29/2023 19:19:15 PM	Multidimensional Arrays in Java - GeeksforGeeks	https://www.geeksforgeeks.org/multidimensional-arrays-in-java/
+9/29/2023 19:45:45 PM	Java OOP Zoo Program	https://chat.openai.com/c/c0b31d16-a8d4-4420-83fa-5fec04c38e08
+9/29/2023 20:39:48 PM	how to carriage return in eclipse - Google Search	https://www.google.com/search?q=how+to+carriage+return+in+eclipse&oq=how+to+carriage+return+in+eclipse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCggCEAAYhgMYigXSAQkxMjU1N2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+9/29/2023 20:39:57 PM	Eclipse Community Forums: Newcomers » Carriage return on eclipse console	https://www.eclipse.org/forums/index.php/t/87512/
